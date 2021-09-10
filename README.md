@@ -1,3 +1,2 @@
 # IBMintro
-changing the text
-in the readme 
+I upload small code snippets here that were giving problems when trying to upload them as gists.
